@@ -1,0 +1,30 @@
+/* GLOBAL STYLING */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace, sans-serif;
+}
+
+body {
+  margin: 0% 20%;
+}
+
+h4 {
+  font-size: 18px;
+  color: #999;
+}
+
+h3 {
+  font-size: 25px;
+  color: #999;
+  line-height: 1;
+  margin: 2rem 0rem;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+/* MAIN STYLING */
